@@ -34,8 +34,8 @@ The dataset (`ai_job_dataset.csv`) contains 15,000 job records across 19 attribu
 
 1. Clone the repository and navigate into the project folder:
    ```bash
-   git clone <your-repo-url>
-   cd <your-repo-folder>
+   git clone https://github.com/Nuren-Perera/ai-job-salary-prediction-2025.git
+   cd ai-job-salary-prediction-2025
    ```
 
 2. Install the required dependencies:
